@@ -1,6 +1,7 @@
 package app
 
 import (
+	"github.com/StefanPahlplatz/bookstore_items-api/clients/elasticsearch"
 	"github.com/gorilla/mux"
 	"net/http"
 )
@@ -10,6 +11,8 @@ var (
 )
 
 func StartApplication() {
+	elasticsearch.Init()
+
 	mapUrls()
 
 	srv := &http.Server{

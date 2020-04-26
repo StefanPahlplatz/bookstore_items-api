@@ -1,0 +1,14 @@
+github.com/StefanPahlplatz/bookstore_oauth-go v0.0.0-20200423173611-1e65c0f2f145 h1:w5FVnq33e+tH7Ob051KFF3/5GnLqO0mLsYwg/l7Jv1Y=
+github.com/StefanPahlplatz/bookstore_oauth-go v0.0.0-20200423173611-1e65c0f2f145/go.mod h1:BX+23YWjdLZz5llacuFFR8Am6vJ1R0MCR4UBg7w/Xjg=
+github.com/StefanPahlplatz/bookstore_utils-go v0.0.0-20200426090009-84ab0c9181d7 h1:NapOU+A/cY985JW86oBQiJ7cPkMuh6WkkN5ZWlUVYTc=
+github.com/StefanPahlplatz/bookstore_utils-go v0.0.0-20200426090009-84ab0c9181d7/go.mod h1:SfBz4aCzZUBxbrUDxIShKbLhNcOpX0jSNlhpa67gneQ=
+github.com/davecgh/go-spew v1.1.0/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
+github.com/gorilla/mux v1.7.4 h1:VuZ8uybHlWmqV03+zRzdwKL4tUnIp1MAQtp1mIFE1bc=
+github.com/gorilla/mux v1.7.4/go.mod h1:DVbg23sWSpFRCP0SfiEN6jmj59UnW/n46BH5rLB71So=
+github.com/mercadolibre/golang-restclient v0.0.0-20170701022150-51958130a0a0 h1:EDOjA2IGgjSBlPlnW7CzBUo/o410SMiFh670jP29Kc4=
+github.com/mercadolibre/golang-restclient v0.0.0-20170701022150-51958130a0a0/go.mod h1:Z7qYja4aGk/RWl1yJtN1LXRvC7Hsbq8SEbqWWDrMqMs=
+github.com/pmezard/go-difflib v1.0.0/go.mod h1:iKH77koFhYxTK1pcRnkKkqfTogsbg7gZNVY4sRDYZ/4=
+github.com/stretchr/objx v0.1.0/go.mod h1:HFkY916IF+rwdDfMAkV7OtwuqBVzrE8GR6GFx+wExME=
+github.com/stretchr/testify v1.5.1/go.mod h1:5W2xD1RspED5o8YsWQXVCued0rvSQ+mT+I5cxcmMvtA=
+gopkg.in/check.v1 v0.0.0-20161208181325-20d25e280405/go.mod h1:Co6ibVJAznAaIkqp8huTwlJQCZ016jof/cbN4VW5Yz0=
+gopkg.in/yaml.v2 v2.2.2/go.mod h1:hI93XBmqTisBFMUTm0b8Fm+jr3Dg1NNxqwp+5A1VGuI=
